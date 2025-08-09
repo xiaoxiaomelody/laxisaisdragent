@@ -4,7 +4,7 @@ import openai
 openai.api_key = "import your own api key" #here I imported my secret API key
 
 def load_emails(file_path="emails.json"):
-    """Load mock emails from a JSON file."""
+    """this function loads mock emails from a JSON file."""
     with open(file_path, "r") as f:
         return json.load(f)
     
@@ -19,8 +19,7 @@ def extract_name(email_address):
 
 def classify_email(subject, body):
     """
-    Classify the email into general categories.
-    Returns: category string (e.g., 'Meeting Request')
+    This function classifies the email into general categories and return the category name. 
     """
     prompt = f"""
     Classify this email into one of these categories:
@@ -43,8 +42,7 @@ def classify_email(subject, body):
 
 def generate_reply(intent, subject, body, sender_name):
     """
-    Generate a polite and professional reply based on the intent.
-    Automatically personalizes with sender_name.
+    This function generates reply in a polite manner accoridng to sender's intent.
     """
     prompt = f"""
     You are a helpful, professional AI email assistant. You help respond to inbound emails, 
