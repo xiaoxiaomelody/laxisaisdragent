@@ -6,4 +6,4 @@ while delivering high-quality user experiences. OpenAI’s well-documented APIs 
 
 I produce six sample emails following all different categories in emails.json. In main.py, I import emails.json, OpenAI API key, write helper functions and prompts to parse email, classify intent, generate response.
 
-Run python main.py to try it out!
+Import you own OpenAI API key and run python main.py to try it out!
