@@ -1,0 +1,32 @@
+[
+  {
+    "sender": "jane_doe@gmail.com",
+    "subject": "Available next Tuesday",
+    "body": "Hi John, I’m available for a call next Tuesday at 3pm or Wednesday morning. Let me know what works!"
+  },
+  {
+    "sender": "alex@163.com",
+    "subject": "Thanks for the meeting",
+    "body": "Hi John, I appreciate your time today. I enjoyed learning more about the Sales Assistant role!"
+  },
+  {
+    "sender": "melody@brown.edu",
+    "subject": "Quick question about your product features",
+    "body": "Hi, I was exploring your platform and had a few questions about the integration options available. Could you please provide more details or point me to relevant resources?"
+  },
+  {
+    "sender": "sunny_barbor@gmail.com",
+    "subject": "Checking in on our previous conversation",
+    "body": "Hi John, Just wanted to follow up on my last email regarding the proposal. Please let me know if you need any further information or if you’re ready to move forward. Best, Sunny"
+  },
+  {
+    "sender": "amy156@gmail.com",
+    "subject": "Follow-up to Reach Out Email",
+    "body": "Dear John, thanks for your reach out email. I appreciate the chance but I'm busy over these weeks so I'm afriad that I cannot come. Best, Amy."
+  },
+  {
+    "sender": "lucy@hotmail.com",
+    "subject": "??&hskn",
+    "body": "xxxxxxHahhhhh"
+  }
+]
